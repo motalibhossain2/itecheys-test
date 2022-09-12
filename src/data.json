@@ -1,0 +1,27 @@
+export default const Data=[
+    {
+        "name":"Motalib",
+        "address":"dhaka",
+        "phone":"0124587"
+    },
+    {
+        "name":"Motalib",
+        "address":"dhaka",
+        "phone":"0124587"
+    },
+    {
+        "name":"Motalib",
+        "address":"dhaka",
+        "phone":"0124587"
+    },
+    {
+        "name":"Motalib",
+        "address":"dhaka",
+        "phone":"0124587"
+    },
+    {
+        "name":"Motalib",
+        "address":"dhaka",
+        "phone":"0124587"
+    }
+]
